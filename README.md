@@ -109,4 +109,4 @@ This project is released under the MIT License.
 
 - Gautam Sharma
 - B.Tech CSE | Machine Learning & Data Science
-**Focus areas**: time-series analysis, large-scale data processing, applied financial analytics
+- **Focus areas**: time-series analysis, large-scale data processing, applied financial analytics
